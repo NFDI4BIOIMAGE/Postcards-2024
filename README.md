@@ -74,3 +74,6 @@ NFDI4BIOIMAGE Consortium (2024): NFDI4BIOIMAGE data management illustrations by 
 * [JPG](/DataAvailableOnRequest.jpg)
 * [PDF](/DataAvailableOnRequest.png)
 
+## License
+
+NFDI4BIOIMAGE data management illustrations are free to use under the terms of the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
