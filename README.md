@@ -2,7 +2,7 @@
 
 # NFDI4BIOIMAGE data management illustrations by Henning Falk
 
-These illustrations were contracted by the Heinrich Heine University Düsseldorf in the frame of the consortium [NFDI4BIOIMAGE](https://nfdi4bioimage.de) from [Henning Falk](https://twitter.com/DrHenningFalk) for the purpose of education and public outreach. The illustrations are free to use under a CC-BY 4.0 license.
+These illustrations were contracted by the Heinrich Heine University Düsseldorf in the frame of the consortium [NFDI4BIOIMAGE](https://nfdi4bioimage.de) from [Henning Falk](http://falk-illustrations.de/) for the purpose of education and public outreach. The illustrations are free to use under a CC-BY 4.0 license.
 
 NFDI4BIOIMAGE is a consortium of Germany's National Research Data Infrastructure ([Nationale Forschungsdateninfrastruktur, NFDI](https://nfdi.de)).
 NFDI4BIOIMAGE is a collaboration project comprising legally independent partners. The consortium is legally non-independent and does not act autonomously towards third parties
@@ -10,7 +10,7 @@ NFDI4BIOIMAGE is a collaboration project comprising legally independent partners
 ## Attribution
 
 Please include an attribution similar to:
-*["Data annotation matters"](https://github.com/NFDI4BIOIMAGE/Postcards-2024/blob/main/DatasetsAnonymous.jpg), NFDI4BIOIMAGE Consortium (2024): NFDI4BIOIMAGE data management illustrations by [Henning Falk](https://twitter.com/DrHenningFalk), Zenodo, https://doi.org/10.5281/zenodo.14186100, is used under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. Modifications to this illustration include cropping.*
+*["Data annotation matters"](https://github.com/NFDI4BIOIMAGE/Postcards-2024/blob/main/DatasetsAnonymous.jpg), NFDI4BIOIMAGE Consortium (2024): NFDI4BIOIMAGE data management illustrations by [Henning Falk](http://falk-illustrations.de/), Zenodo, https://doi.org/10.5281/zenodo.14186100, is used under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. Modifications to this illustration include cropping.*
 
 ## Citing the illustrations
 
